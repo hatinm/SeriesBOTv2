@@ -1,0 +1,21 @@
+{
+  "name": "sunbot",
+  "version": "1.0.0",
+  "description": "This is a tes ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cleverbot-node": "^0.3.11",
+    "common-tags": "^1.8.0",
+    "discord": "^0.8.2",
+    "discord.js": "^11.4.2",
+    "discord.js-chatbot": "^1.0.1",
+    "ms": "^2.1.1",
+    "node-fetch": "^2.3.0",
+    "random-puppy": "^1.1.0"
+  }
+}
